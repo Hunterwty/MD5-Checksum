@@ -1,7 +1,10 @@
+Language: [English](https://github.com/Hunterwty/MD5-Checksum/blob/main/README.md) | [中文简体](https://github.com/Hunterwty/MD5-Checksum/blob/main/README-zh-CN.md)
+
 # MD5-Checksum
+
 A tool for calculating and comparing MD5
 
-# requirement
+# Requirement
 .NETFramework v4.0
 
 # Changes

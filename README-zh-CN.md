@@ -1,4 +1,7 @@
+语言: [English](https://github.com/Hunterwty/MD5-Checksum/blob/main/README.md) | [中文简体](https://github.com/Hunterwty/MD5-Checksum/blob/main/README-zh-CN.md)
+
 # MD5-Checksum
+
 一个生成、对比MD5的工具
 
 # 运行环境
